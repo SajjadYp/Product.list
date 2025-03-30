@@ -1,2 +1,2 @@
-# Product.list
- css and html practis , product list for store web pages
+# Product.Display
+ Html , Css , Flexbox practis
