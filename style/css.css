@@ -1,0 +1,182 @@
+@font-face {
+  font-family: Shabnam-fd;
+  src: url(../font/Shabnam-FD.woff2);
+}
+body {
+  font-family: Shabnam-fd;
+}
+.container {
+  background-color: #fafafa;
+  width: 1216px;
+  height: 1000px;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#boxs {
+  display: inline-block;
+  display: flex;
+  gap: 12px;
+  margin: 20px 10px 20px 10px;
+  align-items: center;
+}
+.box1,
+.box2,
+.box3,
+.box4 {
+  background-color: #ffffff;
+  border: 3px;
+  width: 270px;
+  height: 400px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 3px hsl(0, 2%, 78%);
+}
+
+.box1 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+#img1 {
+  height: 200px;
+  width: 240px;
+  margin-right: 20px;
+}
+
+#box1content {
+  margin-top: 20px;
+}
+
+#offbox1 {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+
+.pricebox1 {
+  justify-content: space-between;
+  width: 279px;
+  height: 40px;
+  display: inline-block;
+  align-items: center;
+  display: flex;
+}
+
+#rating1 {
+  display: flex;
+  align-items: center;
+}
+
+.box2 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+#img1 {
+  height: 200px;
+  width: 240px;
+  margin-right: 20px;
+}
+
+#box2content {
+  margin-top: 20px;
+}
+
+#offbox2 {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+
+.pricebox2 {
+  justify-content: space-between;
+  width: 279px;
+  height: 40px;
+  display: inline-block;
+  align-items: center;
+  display: flex;
+}
+
+#rating2 {
+  display: flex;
+  align-items: center;
+}
+
+.box3 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+#img1 {
+  height: 200px;
+  width: 240px;
+  margin-right: 20px;
+}
+
+#box3content {
+  margin-top: 20px;
+}
+
+#offbox3 {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+
+.pricebox3 {
+  justify-content: space-between;
+  width: 279px;
+  height: 40px;
+  display: inline-block;
+  align-items: center;
+  display: flex;
+}
+
+#rating3 {
+  display: flex;
+  align-items: center;
+}
+
+.box4 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+#img1 {
+  height: 200px;
+  width: 240px;
+  margin-right: 20px;
+}
+
+#box4content {
+  margin-top: 20px;
+}
+
+#offbox4 {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  margin-top: -4px;
+}
+
+.pricebox4 {
+  justify-content: space-between;
+  width: 279px;
+  height: 40px;
+  display: inline-block;
+  align-items: center;
+  display: flex;
+}
+
+#rating4 {
+  display: flex;
+  align-items: center;
+}
